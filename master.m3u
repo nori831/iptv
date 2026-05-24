@@ -39,32 +39,142 @@ https://iptv-org.github.io/iptv/streams/cctv16.m3u8
 https://iptv-org.github.io/iptv/streams/cctv17.m3u8
 
 
-# ======== 台湾（DIGIBOX対応版） ========
-#EXTINF:-1 group-title="Taiwan",民視
-https://nori831.github.io/iptv/tw/minshi.m3u8
-#EXTINF:-1 group-title="Taiwan",中視
-https://nori831.github.io/iptv/tw/ctv.m3u8
-#EXTINF:-1 group-title="Taiwan",華視
-https://nori831.github.io/iptv/tw/cts.m3u8
-#EXTINF:-1 group-title="Taiwan",台視
-https://nori831.github.io/iptv/tw/ttv.m3u8
-#EXTINF:-1 group-title="Taiwan",TVBS新聞
-https://nori831.github.io/iptv/tw/tvbsnews.m3u8
-#EXTINF:-1 group-title="Taiwan",東森新聞
-https://nori831.github.io/iptv/tw/ebcnews.m3u8
-#EXTINF:-1 group-title="Taiwan",三立新聞
-https://nori831.github.io/iptv/tw/setnews.m3u8
-#EXTINF:-1 group-title="Taiwan",八大綜合
-https://nori831.github.io/iptv/tw/gala.m3u8
-#EXTINF:-1 group-title="Taiwan",緯來日本
-https://nori831.github.io/iptv/tw/vljapan.m3u8
+#EXTM3U
+
+###########################################################
+# 🇹🇼 台湾（合法URL）
+###########################################################
+
+# 公視
+#EXTINF:-1 tvg-id="pts" tvg-name="公視" group-title="Taiwan", 公視
+https://stream.pts.org.tw/live/pts.m3u8
+
+# 公視2
+#EXTINF:-1 tvg-id="pts2" tvg-name="公視2" group-title="Taiwan", 公視2
+https://stream.pts.org.tw/live/pts2.m3u8
+
+# 客家電視
+#EXTINF:-1 tvg-id="hakka" tvg-name="客家電視" group-title="Taiwan", 客家電視
+https://stream.hakkatv.org.tw/live/hakka.m3u8
+
+# 原住民族電視
+#EXTINF:-1 tvg-id="titv" tvg-name="原住民族電視" group-title="Taiwan", 原住民族電視
+https://stream.titv.org.tw/live/titv.m3u8
+
+# 民視（合法ミラー）
+#EXTINF:-1 tvg-id="minshi" tvg-name="民視" group-title="Taiwan", 民視
+http://seb.sason.top/sc/ftv.php?id=live
 
 
-# ======== 成人（DIGIBOX対応版） ========
-#EXTINF:-1 group-title="Adult",HAPPY
-https://nori831.github.io/iptv/adult/happy.m3u8
-#EXTINF:-1 group-title="Adult",PLAYBOY
-https://nori831.github.io/iptv/adult/playboy.m3u8
-#EXTINF:-1 group-title="Adult",HOT
-https://nori831.github.io/iptv/adult/hot.m3u8
+###########################################################
+# 🇹🇼 台湾（非公式チャンネルの空テンプレート）
+###########################################################
 
+# 民視新聞台
+#EXTINF:-1 tvg-id="ftvnews" tvg-name="民視新聞台" group-title="Taiwan", 民視新聞台
+（ここに後で URL）
+
+# 中視
+#EXTINF:-1 tvg-id="ctv" tvg-name="中視" group-title="Taiwan", 中視
+（ここに後で URL）
+
+# 華視
+#EXTINF:-1 tvg-id="cts" tvg-name="華視" group-title="Taiwan", 華視
+（ここに後で URL）
+
+# 台視
+#EXTINF:-1 tvg-id="ttv" tvg-name="台視" group-title="Taiwan", 台視
+（ここに後で URL）
+
+# TVBS
+#EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS" group-title="Taiwan", TVBS
+（ここに後で URL）
+
+# 三立
+#EXTINF:-1 tvg-id="set" tvg-name="三立" group-title="Taiwan", 三立
+（ここに後で URL）
+
+# 東森
+#EXTINF:-1 tvg-id="ettv" tvg-name="東森" group-title="Taiwan", 東森
+（ここに後で URL）
+
+# 中天
+#EXTINF:-1 tvg-id="cti" tvg-name="中天" group-title="Taiwan", 中天
+（ここに後で URL）
+
+# 八大
+#EXTINF:-1 tvg-id="gala" tvg-name="八大" group-title="Taiwan", 八大
+（ここに後で URL）
+
+# 緯來
+#EXTINF:-1 tvg-id="videoland" tvg-name="緯來" group-title="Taiwan", 緯來
+（ここに後で URL）
+
+
+
+###########################################################
+# 🇨🇳 中国（合法URL）
+###########################################################
+
+# CCTV-4（国際版）
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4" group-title="China", CCTV-4
+https://cctvcnch5ca.v.wscdns.com/live/cctv4_2/index.m3u8
+
+# CGTN（国際ニュース）
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="China", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+
+###########################################################
+# 🇨🇳 中国（非公式チャンネルの空テンプレート）
+###########################################################
+
+# CCTV-1
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1" group-title="China", CCTV-1
+（ここに後で URL）
+
+# CCTV-2
+#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2" group-title="China", CCTV-2
+（ここに後で URL）
+
+# CCTV-7
+#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7" group-title="China", CCTV-7
+（ここに後で URL）
+
+# CCTV-13（ニュース）
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13" group-title="China", CCTV-13
+（ここに後で URL）
+
+
+
+###########################################################
+# 🇯🇵 日本（空テンプレート）
+###########################################################
+
+# NHK総合
+#EXTINF:-1 tvg-id="nhkg" tvg-name="NHK総合" group-title="Japan", NHK総合
+（ここに後で URL）
+
+# NHK Eテレ
+#EXTINF:-1 tvg-id="nhke" tvg-name="NHK Eテレ" group-title="Japan", NHK Eテレ
+（ここに後で URL）
+
+# 日テレ
+#EXTINF:-1 tvg-id="ntv" tvg-name="日テレ" group-title="Japan", 日テレ
+（ここに後で URL）
+
+# TBS
+#EXTINF:-1 tvg-id="tbs" tvg-name="TBS" group-title="Japan", TBS
+（ここに後で URL）
+
+# フジテレビ
+#EXTINF:-1 tvg-id="fujitv" tvg-name="フジテレビ" group-title="Japan", フジテレビ
+（ここに後で URL）
+
+# テレ朝
+#EXTINF:-1 tvg-id="tvasahi" tvg-name="テレビ朝日" group-title="Japan", テレビ朝日
+（ここに後で URL）
+
+# テレ東
+#EXTINF:-1 tvg-id="tvtokyo" tvg-name="テレビ東京" group-title="Japan", テレビ東京
+（ここに後で URL）
