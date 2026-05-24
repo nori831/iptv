@@ -1,1 +1,70 @@
+#EXTM3U
+
+# ======== 中国（CCTV） ========
+#EXTINF:-1 group-title="China",CCTV-1 综合
+https://iptv-org.github.io/iptv/streams/cctv1.m3u8
+#EXTINF:-1 group-title="China",CCTV-2 财经
+https://iptv-org.github.io/iptv/streams/cctv2.m3u8
+#EXTINF:-1 group-title="China",CCTV-3 综艺
+https://iptv-org.github.io/iptv/streams/cctv3.m3u8
+#EXTINF:-1 group-title="China",CCTV-4 中文国际
+https://iptv-org.github.io/iptv/streams/cctv4.m3u8
+#EXTINF:-1 group-title="China",CCTV-5 体育
+https://iptv-org.github.io/iptv/streams/cctv5.m3u8
+#EXTINF:-1 group-title="China",CCTV-5+
+https://iptv-org.github.io/iptv/streams/cctv5plus.m3u8
+#EXTINF:-1 group-title="China",CCTV-6 电影
+https://iptv-org.github.io/iptv/streams/cctv6.m3u8
+#EXTINF:-1 group-title="China",CCTV-7 国防军事
+https://iptv-org.github.io/iptv/streams/cctv7.m3u8
+#EXTINF:-1 group-title="China",CCTV-8 电视剧
+https://iptv-org.github.io/iptv/streams/cctv8.m3u8
+#EXTINF:-1 group-title="China",CCTV-9 纪录
+https://iptv-org.github.io/iptv/streams/cctv9.m3u8
+#EXTINF:-1 group-title="China",CCTV-10 科教
+https://iptv-org.github.io/iptv/streams/cctv10.m3u8
+#EXTINF:-1 group-title="China",CCTV-11 戏曲
+https://iptv-org.github.io/iptv/streams/cctv11.m3u8
+#EXTINF:-1 group-title="China",CCTV-12 社会与法
+https://iptv-org.github.io/iptv/streams/cctv12.m3u8
+#EXTINF:-1 group-title="China",CCTV-13 新闻
+https://iptv-org.github.io/iptv/streams/cctv13.m3u8
+#EXTINF:-1 group-title="China",CCTV-14 少儿
+https://iptv-org.github.io/iptv/streams/cctv14.m3u8
+#EXTINF:-1 group-title="China",CCTV-15 音乐
+https://iptv-org.github.io/iptv/streams/cctv15.m3u8
+#EXTINF:-1 group-title="China",CCTV-16 奥林匹克
+https://iptv-org.github.io/iptv/streams/cctv16.m3u8
+#EXTINF:-1 group-title="China",CCTV-17 农业农村
+https://iptv-org.github.io/iptv/streams/cctv17.m3u8
+
+
+# ======== 台湾（DIGIBOX対応版） ========
+#EXTINF:-1 group-title="Taiwan",民視
+https://nori831.github.io/iptv/tw/minshi.m3u8
+#EXTINF:-1 group-title="Taiwan",中視
+https://nori831.github.io/iptv/tw/ctv.m3u8
+#EXTINF:-1 group-title="Taiwan",華視
+https://nori831.github.io/iptv/tw/cts.m3u8
+#EXTINF:-1 group-title="Taiwan",台視
+https://nori831.github.io/iptv/tw/ttv.m3u8
+#EXTINF:-1 group-title="Taiwan",TVBS新聞
+https://nori831.github.io/iptv/tw/tvbsnews.m3u8
+#EXTINF:-1 group-title="Taiwan",東森新聞
+https://nori831.github.io/iptv/tw/ebcnews.m3u8
+#EXTINF:-1 group-title="Taiwan",三立新聞
+https://nori831.github.io/iptv/tw/setnews.m3u8
+#EXTINF:-1 group-title="Taiwan",八大綜合
+https://nori831.github.io/iptv/tw/gala.m3u8
+#EXTINF:-1 group-title="Taiwan",緯來日本
+https://nori831.github.io/iptv/tw/vljapan.m3u8
+
+
+# ======== 成人（DIGIBOX対応版） ========
+#EXTINF:-1 group-title="Adult",HAPPY
+https://nori831.github.io/iptv/adult/happy.m3u8
+#EXTINF:-1 group-title="Adult",PLAYBOY
+https://nori831.github.io/iptv/adult/playboy.m3u8
+#EXTINF:-1 group-title="Adult",HOT
+https://nori831.github.io/iptv/adult/hot.m3u8
 
