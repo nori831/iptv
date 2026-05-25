@@ -1,5 +1,13 @@
 #EXTM3U
 
+# CCTV-4（国際版）
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4" group-title="China", CCTV-4
+https://cctvcnch5ca.v.wscdns.com/live/cctv4_2/index.m3u8
+
+# CGTN
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="China", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
 # ======== 中国（CCTV） ========
 #EXTINF:-1 group-title="China",CCTV-1 综合
 https://iptv-org.github.io/iptv/streams/cctv1.m3u8
