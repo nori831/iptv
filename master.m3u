@@ -1,1 +1,33 @@
+#EXTM3U
+
+# ===== China =====
+
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4" group-title="China", CCTV-4
+https://cctvcnch5ca.v.wscdns.com/live/cctv4_2/index.m3u8
+
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="China", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1" group-title="China", CCTV-1
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13" group-title="China", CCTV-13
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5" group-title="China", CCTV-5
+
+# ===== Taiwan =====
+
+#EXTINF:-1 tvg-id="pts" tvg-name="PTS" group-title="Taiwan", PTS
+https://stream.pts.org.tw/live/pts.m3u8
+
+#EXTINF:-1 tvg-id="hakka" tvg-name="Hakka TV" group-title="Taiwan", Hakka TV
+https://stream.hakkatv.org.tw/live/hakka.m3u8
+
+#EXTINF:-1 tvg-id="minshi" tvg-name="Minshi" group-title="Taiwan", 民視
+#EXTINF:-1 tvg-id="ctv" tvg-name="CTV" group-title="Taiwan", 中視
+#EXTINF:-1 tvg-id="cts" tvg-name="CTS" group-title="Taiwan", 華視
+
+# ===== Japan =====
+
+#EXTINF:-1 tvg-id="nhk" tvg-name="NHK" group-title="Japan", NHK
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" group-title="Japan", 日本テレビ
+#EXTINF:-1 tvg-id="tbs" tvg-name="TBS" group-title="Japan", TBS
+#EXTINF:-1 tvg-id="fujitv" tvg-name="Fuji TV" group-title="Japan", フジテレビ
 
